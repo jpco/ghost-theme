@@ -1,8 +1,6 @@
-# Casper
+# Not casper
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
+A different theme for Ghost.  Technically modified from Casper so I'll just leave the original copyright.
 
 ## Copyright & License
 
