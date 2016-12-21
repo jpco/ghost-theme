@@ -1,0 +1,54 @@
+/* blog-specific style */
+
+/* we extend the root style */
+@import url(/mainstyle.css);
+
+.post-date {
+	color: #bbb;
+}
+
+.pagination {
+	text-align: right;
+	padding-top: 1.5em;
+	color: #666;
+}
+
+h3 {
+	color: black;
+}
+
+#post-metadata {
+	font-family: Raleway;
+	font-weight: 500;
+	padding-left: 2em;
+}
+
+#content-inner p code {
+	color: #4a4a4a;
+	padding: .2rem .3rem .1rem;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+	background-color: #efefef;
+	font-size: 0.8em;
+}
+
+blockquote {
+	color: #666;
+	margin-left: 7%;
+	padding-left: 3%;
+	margin-right: 10%;
+	border-left: 1px solid #ddd;
+}
+
+#content-inner pre {
+	color: #4a4a4a;
+	padding: .2rem .3rem .1rem;
+	border: 1px solid #ddd;
+	border-radius: 2px;
+	background-color: #efefef;
+	font-size: 0.8em;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 1em;
+	margin-bottom: 2em;
+}
