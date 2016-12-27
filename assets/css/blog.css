@@ -47,6 +47,7 @@ blockquote {
 	border-radius: 2px;
 	background-color: #efefef;
 	font-size: 0.8em;
+	overflow-x: auto;
 	margin-left: 5%;
 	margin-right: 5%;
 	margin-top: 1em;
