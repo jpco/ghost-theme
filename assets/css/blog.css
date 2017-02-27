@@ -1,8 +1,5 @@
 /* blog-specific style */
 
-/* we extend the root style */
-@import url(/mainstyle.css);
-
 .post-date {
 	color: #bbb;
 }
